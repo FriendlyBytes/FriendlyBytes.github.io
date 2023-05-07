@@ -1,0 +1,9 @@
+razmak {
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+@media (min-width: 576px) {
+    razmak {
+    }
+}
